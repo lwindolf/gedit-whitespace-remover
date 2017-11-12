@@ -20,6 +20,8 @@ See the `LICENSE` file.
 Install
 -------
 
+For easy automatic installation you can install this plugin using the [Gedit Plugin Installer](https://github.com/lwindolf/gedit-plugininstaller/) or you can do it manually:
+
 Simply extract the package into the `~/.local/share/gedit/plugins` directory, or - for a system-wide deployment - into `/usr/lib/gedit/plugins` (the path may be different, depending on your distribution).
 
 A little more tricky is the installation of the new GSettings schema file, that provides the permanent configuration.
